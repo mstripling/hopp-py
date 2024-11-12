@@ -1,0 +1,7 @@
+Hash Ownership Ping Protocol
+
+
+
+curl -X POST http://127.0.0.1:5000/process \
+  -H "Content-Type: application/json" \
+  -d '{"plain": {"name": "Alice", "email": "alice@example.com"}, "hash": {"password": "mypassword123", "credit_card": "1234567812345678"}}'
