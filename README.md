@@ -1,2 +1,2 @@
-# hopp
-Hash Ownership Ping Protocol
+# Hopp
+Hash Ownership Ping Protocol (Hopp) implementation in Python
